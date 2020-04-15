@@ -1,0 +1,21 @@
+body {
+    font-family: 'Kalam', cursive;
+    position: relative;
+  }
+
+.icon-top {
+    background: grey;
+  }
+
+
+.icon-top a {
+    color: #f1fffa;
+    font-size: 25px;
+    transition: color 1s ease;
+  
+  }
+  
+  .icon-top a:hover {
+    color: #242424;
+  
+  }

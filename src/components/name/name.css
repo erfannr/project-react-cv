@@ -1,0 +1,19 @@
+
+
+.nameOcupation {
+    align-items: center;
+    text-align: center;   
+    border-bottom: 1px solid white;
+    margin: 50px;
+}
+
+h4 {
+    font-size: 45px;
+    margin: 20px;
+    color: blanchedalmond;
+}
+
+h3 {
+    font-size: 35px;
+    margin: 20px;
+}
