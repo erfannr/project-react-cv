@@ -4,7 +4,7 @@ import './name.css'
 class name extends Component {
     render() {
         return (
-            <div class="container-fluid">
+            <div className="container-fluid">
                 <div className="nameOcupation">
 
                     <h4>Erfan Noer Rochman</h4>
