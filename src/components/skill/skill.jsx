@@ -12,7 +12,7 @@ class skill extends Component {
                     <div class="row title mb-5">
                         <div class="col text-center">
                             <div>
-                                <h1>i know some of this</h1>
+                                <h1>Web Developer</h1>
                             </div>
                             <div class="row">
                                 <div class="col-lg-6 my-5">

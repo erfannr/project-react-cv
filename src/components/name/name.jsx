@@ -8,7 +8,7 @@ class name extends Component {
                 <div className="nameOcupation">
 
                     <h4>Erfan Noer Rochman</h4>
-                    <h3>Lorem1</h3>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati corporis explicabo sapiente consequatur illo veritatis nisi repudiandae totam, vitae aliquid qui quas sunt magni, eaque accusantium tempore ipsam. Est, quae.</p>
 
                 </div >
             </div >
