@@ -3,23 +3,23 @@
     clip-path: polygon(0 0, 50% 0, 100% 100%, 0 100%);
     transition: all 1s ease;
   
-  }
+  };
   
   .skills-icon:hover {
     background: red;
-  }
+  };
   
   
   .skills-icon span {
     font-size: 100px;
     color: #909090;
     transition: all 1s ease-in-out;
-  }
+  };
   
   .skills-icon:hover span {
     color: #f1fffa;
-  }
+  };
   
   h3 {
     color: black;
-  }
+  };
